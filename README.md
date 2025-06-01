@@ -1,4 +1,4 @@
-# Unity URP Lightning shader
+# Unity URP 3D Lightning shader
 
 Lightning shader for Unity URP, single bolt with 3D noise  
 Renders a single animated lightning bolt with glow effect, defined by start and end positions  
