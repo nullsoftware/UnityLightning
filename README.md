@@ -21,4 +21,4 @@ Shader params:
  
 ![demo](https://github.com/nullsoftware/UnityLightning/blob/master/Demo/shader-params.gif?raw=true)
 
-**WARNING**: Since this shader uses a ray marching algorithm, I do not recommend to use it in real-world projects due to performance limitations.  
+**WARNING**: Since this shader uses a ray marching algorithm, I do not recommend to use it in real projects due to performance limitations.  
